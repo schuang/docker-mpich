@@ -33,4 +33,4 @@ make install
 
 cd ..
 rm -rf mpich-3.2.1
-rm *.tar.gz
+rm -f *.tar.gz
